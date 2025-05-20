@@ -37,10 +37,11 @@ api-testing-postman/
 - [Postman](https://www.postman.com/downloads/)
 - [Node.js](https://nodejs.org/) (for Newman)
 - [Git](https://git-scm.com/)
+- 
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/api-testing-postman.git
+git clone https://github.com/hasankanaran/postman-api-tests/)
 cd api-testing-postman
 npm install -g newman
 
